@@ -1,0 +1,39 @@
+{
+  "id": "7a9669c3-bda7-456b-9a92-454f561c1aaa",
+  "name": "Car Particle Effect",
+  "entryFile": "CarDecorationApp.tsx",
+  "files": [
+    "CarDecoration.scss",
+    "CarDecorationApi.ts",
+    "CarDecorationApp.tsx",
+    "CarDecorationWidget.tsx",
+    "CarDecorator.ts",
+    "CarParticle.ts",
+    "CarVisualization.ts",
+    "readme.md",
+    "public/darkblue.png",
+    "public/green.png",
+    "public/lime.png",
+    "public/magenta.png",
+    "public/orange.png",
+    "public/purple.png",
+    "public/red.png",
+    "public/teal.png",
+    "public/white.png"
+  ],
+  "commonFiles": [
+    "authorization-client",
+    "map-layer-options",
+    "open-street-map-api"
+  ],
+  "description": "Creates an #traffic visualization from #OpenStreetMap data and a #Decorator using #particles.",
+  "thumbnail": "car-decorator-thumbnail.jpg",
+  "attributes": [
+    "itwin-version:3.x",
+    "api-path:visualization",
+    "api-group-id:visualization"
+  ],
+  "iModels": [
+    "stadium"
+  ]
+}
